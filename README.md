@@ -14,9 +14,7 @@ Perfect for Amazon, Shopify, Etsy sellers processing hundreds of photos.
 ![Before](https://via.placeholder.com/800x800?text=Original+Photo+With+Background)
 
 ### After
-![After](https://via.placeholder.com/800x800/ffffff?text=Processed+White+BG+%2B+Logo)
-
-> نکته: بعد از آپلود عکس‌های واقعی، لینک‌های بالا رو جایگزین کن.
+![After](https://via.placeholder.com/800x800/ffffff?text=Processed+White+BG+%2B+Logo).
 
 ## How to Use
 
